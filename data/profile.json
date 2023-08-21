@@ -5,7 +5,12 @@
     "location": "São Paulo - SP",
     "phone": "(11) 96070-2307",
     "email": "rafael.p.sousa@hotmail.com",
-    "github": "RafaaSousa",
+    "github": [
+        {
+        "user": "RafaaSousa",
+        "url": "https://github.com/RafaaSousa",
+        }
+    ],
     "skills": {
       "hardSkills": [
         {
