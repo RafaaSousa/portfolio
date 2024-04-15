@@ -14,7 +14,7 @@ async function updateProfileInfo(profileData) {
 
     const phone = document.getElementById('profile.phone');
     phone.innerText = profileData.information.phone;
-    phone.href = `tel:${profileData.information.phone}`;
+    phone.href = `https://wa.me/${profileData.information.phone.replace(/[^\d]/g, '')}?text=Ol%C3%A1%2C+Rafael.`;
 
     const email = document.getElementById('profile.email');
     email.innerText = profileData.information.email;
