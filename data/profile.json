@@ -1,10 +1,13 @@
 {
+  "information": {
     "name": "Rafael Sousa",
     "photo": "https://avatars.githubusercontent.com/u/43481051?v=4",
     "job": "Desenvolvedor ",
     "location": "São Paulo - SP",
     "phone": "(11) 96070-2307",
     "email": "rafael.p.sousa@hotmail.com",
+    "github": "RafaaSousa"
+  },
     "skills": {
       "hardSkills": [
         {
