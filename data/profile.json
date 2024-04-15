@@ -50,27 +50,27 @@
     "portfolio": [
       {
         "name": "Notes App - Crie suas notas usando a voz",
-        "url": "https://github.com/RafaaSousa/nlw-expert-notes.git",
+        "url": "https://github.com/RafaaSousa/nlw-expert-notes",
         "github": true
       },
       {
         "name": "Calculadora - Calcule suas contas do mês",
-        "url": "https://github.com/RafaaSousa/Calculadora.git",
+        "url": "https://github.com/RafaaSousa/Calculadora",
         "github": true
       },
       {
         "name": "Weather App - Descubra quantos graus está na sua cidade",
-        "url": "https://github.com/RafaaSousa/weather-app.git",
+        "url": "https://github.com/RafaaSousa/weather-app",
         "github": true
       },
       {
         "name": "Buscador de CEP - Buscar o CEP da sua rua ficou mais fácil",
-        "url": "https://github.com/RafaaSousa/buscador.git",
+        "url": "https://github.com/RafaaSousa/buscador",
         "github": true
       },
       {
         "name": "Portfolio - Crie seu próprio portfolio usando esse projeto como base",
-        "url": "https://github.com/RafaaSousa/portfolio.git",
+        "url": "https://github.com/RafaaSousa/portfolio",
         "github": true
       }
     ],
