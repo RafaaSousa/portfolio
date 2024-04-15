@@ -49,7 +49,7 @@
     ],
     "portfolio": [
       {
-        "name": "Notes App - App de notas que usa API para reconhecimento de voz",
+        "name": "Notes App - Crie suas notas usando a voz",
         "url": "https://github.com/RafaaSousa/nlw-expert-notes.git",
         "github": true
       },
@@ -64,7 +64,7 @@
         "github": true
       },
       {
-        "name": "Weather App - App de previsão do tempo usando API do clima",
+        "name": "Weather App - Descubra quantos graus está na sua cidade",
         "url": "https://github.com/RafaaSousa/weather-app.git",
         "github": true
       },
