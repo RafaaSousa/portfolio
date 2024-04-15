@@ -27,6 +27,10 @@
           "logo": "https://raw.githubusercontent.com/RafaaSousa/portfolio/master/assets/img/icons/react.svg"
         },
         {
+          "name": "TypeScript",
+          "logo": "https://raw.githubusercontent.com/RafaaSousa/portfolio/master/assets/img/icons/typescript.svg"
+        },
+        {
           "name": "Node.js",
           "logo": "https://raw.githubusercontent.com/RafaaSousa/portfolio/master/assets/img/icons/nodejs.svg"
         },
