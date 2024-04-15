@@ -54,12 +54,7 @@
         "github": true
       },
       {
-        "name": "Portfolio",
-        "url": "https://github.com/RafaaSousa/portfolio.git",
-        "github": true
-      },
-      {
-        "name": "Calculadora",
+        "name": "Calculadora - Calcule suas contas do mês",
         "url": "https://github.com/RafaaSousa/Calculadora.git",
         "github": true
       },
@@ -69,8 +64,13 @@
         "github": true
       },
       {
-        "name": "Buscador de CEP",
+        "name": "Buscador de CEP - Buscar o CEP da sua rua ficou mais fácil",
         "url": "https://github.com/RafaaSousa/buscador.git",
+        "github": true
+      },
+      {
+        "name": "Portfolio - Crie seu próprio portfolio usando esse projeto como base",
+        "url": "https://github.com/RafaaSousa/portfolio.git",
         "github": true
       }
     ],
