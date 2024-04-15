@@ -25,6 +25,22 @@ async function updateProfileInfo(profileData) {
     github.href = `https://github.com/${profileData.information.github}`;
 }
 
+function updateSkills(profileData) {
+    const hardSkills = document.querySelector('.hardSkills');
+    hardSkills.innerHTML = '';
+    profileData.skills.hardSkills.forEach(skill => {
+        const li = document.createElement('li');
+        const img = document.createElement('img');
+        img.src = skill.logo;
+        img.alt = skill.name;
+        li.appendChild(img);
+        hardSkills.appendChild(li);
+    });
+
+    const softSkills = document.getElementById('profile.skills.softSkills');
+    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('');
+}
+
 function updateLanguages(profileData) {
     const languages = document.querySelector('.languages');
     languages.innerHTML = '';
@@ -54,6 +70,7 @@ function updatePortfolio(profileData) {
     try {
         const profileData = await fetchProfileData();
         updateProfileInfo(profileData);
+        updateSkills(profileData);
         updateLanguages(profileData);
         updatePortfolio(profileData);
     } catch (error) {
